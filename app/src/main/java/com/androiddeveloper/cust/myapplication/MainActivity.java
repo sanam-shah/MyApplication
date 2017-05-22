@@ -1,5 +1,5 @@
 package com.androiddeveloper.cust.myapplication;
-
+//good hogiya
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
